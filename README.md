@@ -1,2 +1,2 @@
 # SeaMon
-Author-SeaMon
+Author-SeaMon()
